@@ -1,5 +1,3 @@
-/* Zhenbin Lin, 114866923, Recitation section 04 */
-
 public class Planner {
   final int MAX_COURSES = 50;
   Course[] courses;
